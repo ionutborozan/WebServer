@@ -1,0 +1,21 @@
+<input type="button" value="Stop Server" onclick="stopServer();" id="stop-server"/>
+<a href="https://www.upt.ro/" id="upt-page">Go to UPT page</a>
+
+
+<script>
+ function stopServer() {
+     var xmlHttp = new XMLHttpRequest();
+     xmlHttp.onreadystatechange = function() {
+         if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+             callback(xmlHttp.responseText);
+     }
+     xmlHttp.open("GET", "http://localhost:10008/", true); // true for asynchronous
+     xmlHttp.send('stop server');
+ }
+
+ function goToSpecifiedPage() {
+
+ }
+
+
+</script>
