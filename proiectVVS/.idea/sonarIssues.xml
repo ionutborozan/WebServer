@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-apps/web/ar-standalone/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/components-lib/src/lib/components/ar-complex-tree/ar-complex-tree.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/components-lib/src/lib/components/ar-modal/confirmation-dialog/confirmation-dialog.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/components-lib/src/lib/components/ar-modal/multi-option-confirmation-dialog/multi-option-confirmation-dialog.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/components-lib/src/lib/components/custom-tabset/custom-tabset.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/components-lib/src/lib/components/mask-data/mask-value/mask-value.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/components-lib/src/lib/dynamic-view/models/abstract-view-element.model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/components-lib/src/lib/translate/ar-translate--app.pipe.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/administrate/admin-global-config/admin-global-config.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/configuration/features/data-definition/data-definition-add-dialog/data-definition-add-dialog.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/configuration/features/portfolio-management/portfolio-filter-by-dimension-action/portfolio-filter-by-dimension-action.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/risk-strategy-control/audit/audit-jobs-screen/audit-jobs-screen.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/risk-strategy-control/features/block-codes/block-code-filter-action/block-code-filter-action.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/dashboard/add-edit-widget-modal/add-edit-widget-modal.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/ar-info-banner/info-banner/info-banner.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/communication/email-preview/preview-email.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/communication/letter-preview/preview-letter.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/dynamic-grid/renderers/block-status-renderer/block-status-renderer.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/forward-reminder/reminder-action/reminder-action.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/manual-notification/manual-notification-dialog/manual-notification-dialog.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/note/memo-dialog/memo-dialog.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/note/memo-dialog/memo-dialog.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/override/override-dimension-id-action/override-dimension-id-action.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/request-next-alert/request-next-alert-action/request-next-alert-action.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/travel-notification/travel-notification-edit-dialog/travel-notification-edit-dialog.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/watch/watch-action/watch-action.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/pending-alerts/pending-alerts-screen/pending-alerts-screen.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/reports/user-activity-history-report-screen/user-activity-history-filter-panel/user-activity-history-filter-panel.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/review/review-tabset/review-tabset.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/search/search-tab/search-tab-content/search-tab-content.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Interfata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/PageAndDirectoryModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/RunThreadUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ServerState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/StartWebServerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/State.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Statee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/UserInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/server/PageAndDirectoryModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/server/RunThreadUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/server/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/server/ServerState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/server/StartWebServerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/InformationPanelUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/MaintainanceUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/PageAndDirectoryModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/RunThreadUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/ServerState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/StartServerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/StartWebServerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/UiConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ui/UserInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/WebTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/webapp/maintenance.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/webapp/root/About.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/webapp/root/file.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/webapp/root/firstDir/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/webapp/root/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/webapp/root/style.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/webapp/startPage.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
