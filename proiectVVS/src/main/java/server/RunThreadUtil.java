@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
 
 public class RunThreadUtil {
 
-    public void run(List<String> defaultPage, List<String> rootDir, Socket client,String curentDir) {
+    public static void run(List<String> defaultPage, List<String> rootDir, Socket client,String curentDir) {
 
         try {
             PrintWriter out = new PrintWriter(client.getOutputStream(), true);

@@ -9,8 +9,6 @@ public class Server extends Thread {
 
     private Socket client;
     private String curentDir;
-    static public StartWebServerUtil startWebServerUtil = new StartWebServerUtil();
-    static public RunThreadUtil runThreadUtil = new RunThreadUtil();
 
     public Server() {
 
@@ -34,19 +32,12 @@ public class Server extends Thread {
         model.setDefaultDir(defaultDir);
         model.setDefaultPage(defaultPage);
 
-        startWebServerUtil.startServer();
+        StartWebServerUtil.startServer();
     }
 
-    public static StartWebServerUtil getStartWebServerUtil() {
-        return startWebServerUtil;
-    }
-
-    public static RunThreadUtil getRunThreadUtil() {
-        return runThreadUtil;
-    }
 
     public void run() {
-        runThreadUtil.run(model.getDefaultPage(), model.defaultDir, client, curentDir);
+        RunThreadUtil.run(model.getDefaultPage(), model.defaultDir, client, curentDir);
     }
 }
 

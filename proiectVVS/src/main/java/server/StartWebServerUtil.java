@@ -54,7 +54,7 @@ public class StartWebServerUtil {
         StartWebServerUtil.port = port;
     }
 
-    public void startServer() {
+    public static void startServer() {
 
         userInterface = new UserInterface();
         state = state.Stopped;
